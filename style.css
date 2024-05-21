@@ -1,0 +1,65 @@
+.solar{
+    padding: 1vh;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.solarText{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.solarEnergy{
+    text-decoration: underline;
+    padding-top: 5vh;
+    text-align: center;
+}
+
+.wind{
+    padding: 1vh;
+    background-color: rgb(0, 106, 255);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.windText{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.windEnergy{
+    text-decoration: underline;
+    padding-top: 5vh;
+    text-align: center;
+}
+
+.recycle{
+    padding: 1vh;
+    background-color: rgb(63, 200, 0);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.recycleText{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.recyclation{
+    text-decoration: underline;
+    padding-top: 5vh;
+    text-align: center;
+}
